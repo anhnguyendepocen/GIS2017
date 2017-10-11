@@ -12,7 +12,7 @@
   * numeric or text (strings)
   * `type` command will reveal data types  
 
-###### Missing values -
+###### Missing values
 * nature of missing values [not a trivial issue](http://www.lexjansen.com/nesug/nesug01/ps/ps8009.pdf)
   * how are the values missing?
   * blank, NA, NaN, 9999, -999, refused to answer etc.
