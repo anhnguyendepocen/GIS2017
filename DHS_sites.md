@@ -27,6 +27,7 @@ The [Demographic and Health Surveys](https://dhsprogram.com/) collect large hous
 * Allow for more advanced analysis, such as regression analysis (What [factors](https://github.com/flaneuse/FFP-Niger/wiki/Niger-2012-DHS-Regression-Results) are correlated with stunting in [Niger](https://dhsprogram.com/what-we-do/survey/survey-display-407.cfm)?)
 * Highly standardized and structured -- slight learning curve, but once you learn how to work with the data you are good to go.
 * Regularly updated and trusted
+* Large user community with lots of support ([DHS Forum](https://userforum.dhsprogram.com/))
 
 
 
