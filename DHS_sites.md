@@ -1,13 +1,24 @@
 ## Using the DHS to complement other analyses
 The [Demographic and Health Surveys](https://dhsprogram.com/) collect large household level surveys roughly every four years, depending on the country.  While the majority of the data is centered around health statistics, there is also other cross-sectoral information about things like education, land holdings, water, sanitation and hygiene, etc.  Additionally, the DHS has invested in sharing the data publicly and making it easy to incorporate into other work.  Here are the major ways they do so:
 
-### 1. [Stat Compiler](https://www.statcompiler.com/en/)
+
+### 1. Shapefiles of [country boundaries](http://spatialdata.dhsprogram.com/boundaries/) and [indicators](http://spatialdata.dhsprogram.com/data/#/)
+* Provides shapefiles for indicators for a single country, multiple countries, or all the surveys.
+* You can select up to 30 separate indicators
+* Data are downloaded as a shapefile or geodatabase
+* Indictors are listed within the file by their [indicator code](https://api.dhsprogram.com/rest/dhs/indicators?returnFields=IndicatorId,Label,Definition&f=html)
+* Additionally, they provide the country boundaries for the Administrative 1 units in a country, at the time of the survey, going back to the 1980s.
+
+
+### 2. [Stat Compiler](https://www.statcompiler.com/en/)
 * Visualize any indicator in the DHS in a table, map, or graph.
 * Can select data for a particular country or countries.
-* Can also download the data as a .csv or countries.
 * Data can be disaggregated to the Administrative 1 level, or by region (urban/rural), sex, age, or asset index quntiles, where appropriate.
+* Can also download the data as a .xlsx, or export figures as .pdf or .png.
+* Maps can be exported as shapefiles, geodatabase, or printed.
+* When exporting data, recommend using _database format_.
 
-### 2. Shapefiles of countries and indicators
+
 
 ### 3. [Modelled surfaces of key indicators](http://spatialdata.dhsprogram.com/modeled-surfaces/)
 * Provides a spatially modeled map surface for key demographic and health survey indicators
