@@ -25,11 +25,12 @@ The [Demographic and Health Surveys](https://dhsprogram.com/) collect large hous
 * Each map package contains a mean estimation surface and an uncertainty surfaces
 * Can use the two surfaces to mask areas of high uncertainty (see page 41 [here](https://dhsprogram.com/pubs/pdf/SAR14/SAR14.pdf))
 * Modeled surfaces have a 5 X 5 kilometer resolution
-* What should you use them for? Monitoring and evaluation specific tasks or program planning
+#### What should you use them for? 
+  * Monitoring and evaluation specific tasks or program planning
   * Advocate for program support (identify areas of greatest need)
   * Compare program intervention areas to non-intervention areas
   * Aggregate to higher level administrative zones (Feed the Future Zones of Influence or [FEWS Net Livelihood zones](http://www.fews.net/shapefiles))
-* Things to watch out for:
+#### Things to watch out for:
   * Not good for urban areas
   * Seasonal or temporal limitations
 
