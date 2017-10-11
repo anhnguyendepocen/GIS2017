@@ -6,16 +6,16 @@
 ##### Checking the Data
 ###### Variables
 * Variable names
-  * Consistent?
-  * Understandable?
+  * consistent?
+  * understandable?
 * Variable types
-  * Numeric or text (strings)
+  * numeric or text (strings)
   * `type` command will reveal data types  
 
 ###### Missing values -
-* Nature of missing values [not a trivial issue](http://www.lexjansen.com/nesug/nesug01/ps/ps8009.pdf)
-  * How are the values missing?
-  * Blank, NA, NaN, 9999, -999, refused to answer etc.
+* nature of missing values [not a trivial issue](http://www.lexjansen.com/nesug/nesug01/ps/ps8009.pdf)
+  * how are the values missing?
+  * blank, NA, NaN, 9999, -999, refused to answer etc.
 * Excel tools
   * `countif` - count number of cells meeting a condition
   * `countblank` -  count number of empty cells
@@ -25,16 +25,16 @@
     * geographic
       * latitude/Longitude range
       * admin values correct
-    * Numeric
+    * numeric
       * percentages greater than 100%
       * abnormal values
-    * Text
+    * text
       * Inconsistent spelling
       * Dates formatted inconsistently
 
 ###### Unique Identifiers / Duplicate values
 * unique ID - allow one to uniquely identify an observation
-* duplicates -
+* duplicates - if not identified, derived values will be potentially flawed (double-counting)
 
 ##### Pivot Tables for Data Cleaning
 ###### What is a pivot table?
@@ -51,8 +51,8 @@
 
 ----
 #### Data Cleaning Tasks:
-1. Check latitude/longitude values
-2. Filter the data by `SNU1 == gp Gauteng Province` and count the number of facilities
-3. Find all facilities where `rate > 100`
-4. Look at 
+1. check latitude/longitude values
+2. filter the data by `SNU1 == gp Gauteng Province` and count the number of facilities
+3. find all facilities where `rate > 100`
+4. look at 
 
