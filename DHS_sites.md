@@ -12,14 +12,14 @@ The [Demographic and Health Surveys](https://dhsprogram.com/) collect large hous
 ### 3. [Modelled surfaces of key indicators](http://spatialdata.dhsprogram.com/modeled-surfaces/)
 * Each map package contains a mean estimation surface and an uncertainty surfaces
 * Can use the two surfaces to mask areas of high uncertainty (see page 41 [here](https://dhsprogram.com/pubs/pdf/SAR14/SAR14.pdf))
-* Modeled surfaced have a 5 X 5 kilometer resolution
-* Things to watch out for:
-  * Not good for urban areas
-  * Seasonal or temporal limitations
+* Modeled surfaces have a 5 X 5 kilometer resolution
 * What should you use them for? Monitoring and evaluation specific tasks or program planning
   * Advocate for program support (identify areas of greatest need)
   * Compare program intervention areas to non-intervention areas
   * Aggregate to higher level administrative zones (Feed the Future Zones of Influence or FEWS Net Livelihood zones)
+* Things to watch out for:
+  * Not good for urban areas
+  * Seasonal or temporal limitations
 
 ### 4. [Raw and processed data for household surveys](https://dhsprogram.com/data/)
 * Data on population, health, nutrition, HIV and for over 90 countries
