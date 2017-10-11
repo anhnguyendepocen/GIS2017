@@ -17,7 +17,7 @@ The [Demographic and Health Surveys](https://dhsprogram.com/) collect large hous
 * What should you use them for? Monitoring and evaluation specific tasks or program planning
   * Advocate for program support (identify areas of greatest need)
   * Compare program intervention areas to non-intervention areas
-  * Aggregate to higher level administrative zones (Feed the Future Zones of Influence or FEWS Net Livelihood zones)
+  * Aggregate to higher level administrative zones (Feed the Future Zones of Influence or [FEWS Net Livelihood zones](http://www.fews.net/shapefiles))
 * Things to watch out for:
   * Not good for urban areas
   * Seasonal or temporal limitations
