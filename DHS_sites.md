@@ -25,7 +25,7 @@ The [Demographic and Health Surveys](https://dhsprogram.com/) collect large hous
 * Data on population, health, nutrition, HIV and for over 90 countries
 * Allow for more advanced analysis, such as regression analysis (What factors are correlated with stunting in [Niger](https://dhsprogram.com/what-we-do/survey/survey-display-407.cfm)?)
 * Highly standardized and structured -- slight learning curve, but once you learn how to work with the data you are good to go.
-* Regularly updated and trusted.
+* Regularly updated and trusted
 
 
 
