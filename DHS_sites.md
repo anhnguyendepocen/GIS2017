@@ -9,7 +9,7 @@ The [Demographic and Health Surveys](https://dhsprogram.com/) collect large hous
 
 ### 2. Shapefiles of countries and indicators
 
-### 3. [Modelled surfaces of key indicators](http://spatialdata.dhsprogram.com/modeled-surfaces/
+### 3. [Modelled surfaces of key indicators](http://spatialdata.dhsprogram.com/modeled-surfaces/)
 * Each map package contains a mean estimation surface and an uncertainty surfaces
 * Can use the two surfaces to mask areas of high uncertainty (see page 41 [here](https://dhsprogram.com/pubs/pdf/SAR14/SAR14.pdf))
 * Modeled surfaced have a 5 X 5 kilometer resolution
