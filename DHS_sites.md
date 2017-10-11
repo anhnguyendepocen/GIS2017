@@ -2,7 +2,7 @@
 The [Demographic and Health Surveys](https://dhsprogram.com/) collect large household level surveys roughly every four years, depending on the country.  While the majority of the data is centered around health statistics, there is also other cross-sectoral information about things like education, land holdings, water, sanitation and hygiene, etc.  Additionally, the DHS has invested in sharing the data publicly and making it easy to incorporate into other work.  Here are the major ways they do so:
 
 
-## 1. Shapefiles of [country boundaries](http://spatialdata.dhsprogram.com/boundaries/) and [indicators](http://spatialdata.dhsprogram.com/data/#/)
+## 1. Shapefiles of [indicators](http://spatialdata.dhsprogram.com/data/#/) and [country boundaries](http://spatialdata.dhsprogram.com/boundaries/)
 * Provides shapefiles for indicators for a single country, multiple countries, or all the surveys.
 * You can select up to 30 separate indicators
 * Data are downloaded as a shapefile or geodatabase
@@ -48,5 +48,14 @@ The [Demographic and Health Surveys](https://dhsprogram.com/) collect large hous
 
 
 
-### 5. Contextual indicators at survey clusters
+## 5. [Contextual indicators at survey clusters]()
+* The household surveys are collected at around 200 enumeration areas for each survey.
+* To aid in bringing in other contextual indicators, the contextual data links survey cluster locations to ancillary data relating to population, climate, environment, and more.
+* Detailed methodology is included in the data description file and more information about the activity can be found on [DHS's blog](https://blog.dhsprogram.com/spatial-covariates/).
 #### What should you use them for? 
+
+#### Things to watch out for:
+  * If you want to create a raster surface of one of the variables, don't interpolate the cluster points.  Instead, find the data source they used so you're not essentially double interpolating.
+  
+ ## Other nice spatial data resources
+ 
