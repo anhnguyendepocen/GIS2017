@@ -40,13 +40,12 @@ The [Demographic and Health Surveys](https://dhsprogram.com/) collect large hous
 
 ## 4. [Raw and processed data for household surveys](https://dhsprogram.com/data/)
 * Data on population, health, nutrition, HIV and for over 90 countries
-* Allow for more advanced analysis, such as regression analysis (What [factors](https://github.com/flaneuse/FFP-Niger/wiki/Niger-2012-DHS-Regression-Results) are correlated with stunting in [Niger](https://dhsprogram.com/what-we-do/survey/survey-display-407.cfm)?)
 * Highly standardized and structured -- slight learning curve, but once you learn how to work with the data you are good to go.
 * Regularly updated and trusted
 * Large user community with lots of support ([DHS Forum](https://userforum.dhsprogram.com/))
 #### What should you use them for? 
-
-
+* Aadvanced analysis, such as regression analysis (What [factors](https://github.com/flaneuse/FFP-Niger/wiki/Niger-2012-DHS-Regression-Results) are correlated with stunting in [Niger](https://dhsprogram.com/what-we-do/survey/survey-display-407.cfm)?)
+* Reconstructing DHS estimates and exploring statistics across distributions ([how do z-scores vary by asset based wealth index values?](https://github.com/flaneuse/FFP-Niger/blob/master/outputs/NER_stunting-wealth.pdf))
 
 ## 5. [Contextual indicators at survey clusters]()
 * The household surveys are collected at around 200 enumeration areas for each survey.
