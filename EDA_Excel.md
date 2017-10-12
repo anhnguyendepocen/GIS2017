@@ -1,13 +1,13 @@
 # Lessons from Exploratory Data Analysis:
 1. Check your data _before_ you analyze it
- * geographic 
- * categorical
- * numeric
+    * geographic 
+    * categorical
+    * numeric
 2. Plot your data to better understand it
 3. Exploratory data analysis is useful to:
- * assess the quality of your data
- * learn about your data
- * analyze your data
+    * assess the quality of your data
+    * learn about your data
+    * analyze your data
  
  
 ## Exploratory Data Analysis using Excel
