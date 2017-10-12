@@ -1,3 +1,15 @@
+# Lessons from Exploratory Data Analysis:
+1. Check your data _before_ you analyze it
+ * geographic 
+ * categorical
+ * numeric
+2. Plot your data to better understand it
+3. Exploratory data analysis is useful to:
+ * assess the quality of your data
+ * learn about your data
+ * analyze your data
+ 
+ 
 ## Exploratory Data Analysis using Excel
 * Define your analytical question: What is the primary question you would like to answer with the data?
   * What are the trends in HIV positivity rates for the last four quarters?
@@ -62,4 +74,3 @@
 2. filter the data by `SNU1 == gp Gauteng Province` and count the number of facilities
 3. find all facilities where `rate > 100`
 4. create a summary table showing the rate variable for each facility, by quarter
-
