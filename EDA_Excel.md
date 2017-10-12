@@ -10,7 +10,7 @@
   * understandable?
 * Variable types
   * numeric or text (strings)
-  * `type` command will reveal data types  
+  * `type` command will reveal [data types in Excel](https://support.office.com/en-us/article/TYPE-function-45b4e688-4bc3-48b3-a105-ffa892995899)
 
 ### Missing values
 * nature of missing values [not a trivial issue](http://www.lexjansen.com/nesug/nesug01/ps/ps8009.pdf)
@@ -18,7 +18,7 @@
   * blank, NA, NaN, 9999, -999, refused to answer etc.
 * Excel tools
   * `countif` - count number of cells meeting a condition
-  * `countblank` -  count number of empty cells
+  * `countblank` - count number of empty cells
 
 ### Outliers
 * value that is abnormally different from other values
@@ -56,7 +56,6 @@
 * `Column` - variables that will appear in the column  
 * `Row` - variables that will appear in the rows  
 * `Values` - summarized numeric values
-
 
 ## Data Cleaning Tasks:
 1. check latitude/longitude values
