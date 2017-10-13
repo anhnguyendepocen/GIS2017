@@ -75,3 +75,11 @@
 2. filter the data by `SNU1 == gp Gauteng Province` and count the number of facilities
 3. find all facilities where `rate > 100`
 4. create a summary table showing the rate variable for each facility, by quarter
+
+## Resources  
+[PEPFAR Examples](https://achafetz.github.io/pals_dataviz/)  
+[Bar Graphs](https://geocenter.github.io/resources/2016/10/26/bargraph.html)  
+[Heatmap](https://geocenter.github.io/resources/2016/10/12/heatmap.html)  
+[Stephanie Evergreeen Blog](http://stephanieevergreen.com/blog/)  
+
+ 
