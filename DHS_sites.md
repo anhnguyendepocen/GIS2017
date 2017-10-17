@@ -57,4 +57,5 @@ The [Demographic and Health Surveys](https://dhsprogram.com/) collect large hous
   * If you want to create a raster surface of one of the variables, don't interpolate the cluster points.  Instead, find the data source they used so you're not essentially double interpolating.
   
  ## Other nice spatial data resources
- 
+[Worldpop](http://www.worldpop.org.uk/data/data_sources/)  
+
