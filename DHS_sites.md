@@ -44,7 +44,7 @@ The [Demographic and Health Surveys](https://dhsprogram.com/) collect large hous
 * Regularly updated and trusted
 * Large user community with lots of support ([DHS Forum](https://userforum.dhsprogram.com/))
 #### What should you use them for? 
-* Aadvanced analysis, such as regression analysis (What [factors](https://github.com/flaneuse/FFP-Niger/wiki/Niger-2012-DHS-Regression-Results) are correlated with stunting in [Niger](https://dhsprogram.com/what-we-do/survey/survey-display-407.cfm)?)
+* Advanced analysis, such as regression analysis (What [factors](https://github.com/flaneuse/FFP-Niger/wiki/Niger-2012-DHS-Regression-Results) are correlated with stunting in [Niger](https://dhsprogram.com/what-we-do/survey/survey-display-407.cfm)?)
 * Reconstructing DHS estimates and exploring statistics across distributions ([how do z-scores vary by asset based wealth index values?](https://github.com/flaneuse/FFP-Niger/blob/master/outputs/NER_stunting-wealth.pdf))
 
 ## 5. [Contextual indicators at survey clusters]()
